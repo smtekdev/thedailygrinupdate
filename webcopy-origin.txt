@@ -1,0 +1,1969 @@
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Archivo:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Nunito:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Barlow:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.4.3
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\css-24
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Barlow:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.4.3
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\css-22
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Podkova:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Montserrat:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Barlow:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Poppins:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.4.3
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\css-23
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/archivo/v19/k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTT0zRZ9xds.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\archivo\v19\k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTT0zRZ9xds-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivo/v19/k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTT6jRZ9xds.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\archivo\v19\k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTT6jRZ9xds-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivo/v19/k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTTajNZ9xds.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\archivo\v19\k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTTajNZ9xds-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivo/v19/k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTTBjNZ9xds.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\archivo\v19\k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTTBjNZ9xds-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivo/v19/k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTTNDJZ9xds.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\archivo\v19\k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTTNDJZ9xds-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivo/v19/k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTTNDNZ9xds.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\archivo\v19\k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTTNDNZ9xds-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivo/v19/k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTTnTRZ9xds.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\archivo\v19\k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTTnTRZ9xds-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivo/v19/k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTTtDNZ9xds.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\archivo\v19\k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTTtDNZ9xds-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivo/v19/k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTTtDRZ9xds.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\archivo\v19\k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTTtDRZ9xds-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivo/v19/k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HABsydrD0o.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\archivo\v19\k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HABsydrD0o-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivo/v19/k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HABtCdrD0o.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\archivo\v19\k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HABtCdrD0o-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivo/v19/k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HAotCdrD0o.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\archivo\v19\k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HAotCdrD0o-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivo/v19/k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HBftCdrD0o.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\archivo\v19\k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HBftCdrD0o-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivo/v19/k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HBmtCdrD0o.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\archivo\v19\k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HBmtCdrD0o-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivo/v19/k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HCBsidrD0o.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\archivo\v19\k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HCBsidrD0o-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivo/v19/k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HCBsydrD0o.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\archivo\v19\k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HCBsydrD0o-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivo/v19/k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HCzsydrD0o.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\archivo\v19\k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HCzsydrD0o-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivo/v19/k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HDfsydrD0o.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\archivo\v19\k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HDfsydrD0o-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHpv4kjgoGqM7E_DMs8.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\barlow\v12\7cHpv4kjgoGqM7E_DMs8-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E30-8s51op.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\barlow\v12\7cHqv4kjgoGqM7E30-8s51op-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3j-ws51op.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\barlow\v12\7cHqv4kjgoGqM7E3j-ws51op-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3p-ks51op.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\barlow\v12\7cHqv4kjgoGqM7E3p-ks51op-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3q-0s51op.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\barlow\v12\7cHqv4kjgoGqM7E3q-0s51op-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3t-4s51op.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\barlow\v12\7cHqv4kjgoGqM7E3t-4s51op-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3w-os51op.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\barlow\v12\7cHqv4kjgoGqM7E3w-os51op-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3_-gs51op.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\barlow\v12\7cHqv4kjgoGqM7E3_-gs51op-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHrv4kjgoGqM7E3b_s7wHo.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\barlow\v12\7cHrv4kjgoGqM7E3b_s7wHo-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHrv4kjgoGqM7E_Cfs7wHo.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\barlow\v12\7cHrv4kjgoGqM7E_Cfs7wHo-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfO452ouvT8.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\barlow\v12\7cHsv4kjgoGqM7E_CfO452ouvT8-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfOA5WouvT8.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\barlow\v12\7cHsv4kjgoGqM7E_CfOA5WouvT8-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfOc5mouvT8.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\barlow\v12\7cHsv4kjgoGqM7E_CfOc5mouvT8-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfOQ4mouvT8.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\barlow\v12\7cHsv4kjgoGqM7E_CfOQ4mouvT8-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfP04WouvT8.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\barlow\v12\7cHsv4kjgoGqM7E_CfP04WouvT8-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfPI42ouvT8.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\barlow\v12\7cHsv4kjgoGqM7E_CfPI42ouvT8-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfPk5GouvT8.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\barlow\v12\7cHsv4kjgoGqM7E_CfPk5GouvT8-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHtv4kjgoGqM7E_CfNY8H0JnQ.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\barlow\v12\7cHtv4kjgoGqM7E_CfNY8H0JnQ-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDBImdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDBImdTQ3ig-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDDshdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDDshdTQ3ig-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDDsmdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDDsmdTQ3ig-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmdTQ3ig-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmdTQ3ig-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDIkhdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDIkhdTQ3ig-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3ig-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDOUhdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDOUhdTQ3ig-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNi83AHjabf.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNi83AHjabf-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiBHcHjabf.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiBHcHjabf-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNic3cHjabf.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNic3cHjabf-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXAHjabf.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXAHjabf-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXcHjabf.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXcHjabf-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNin3AHjabf.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNin3AHjabf-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNirXAHjabf.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNirXAHjabf-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiSncHjabf.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiSncHjabf-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/podkova/v31/K2FufZ1EmftJSV9VQpXb1lo9vC3nZWt3zfU_GI4.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\podkova\v31\K2FufZ1EmftJSV9VQpXb1lo9vC3nZWt3zfU_GI4-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/podkova/v31/K2FufZ1EmftJSV9VQpXb1lo9vC3nZWtFzfU_GI4.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\podkova\v31\K2FufZ1EmftJSV9VQpXb1lo9vC3nZWtFzfU_GI4-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/podkova/v31/K2FufZ1EmftJSV9VQpXb1lo9vC3nZWubyvU_GI4.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\podkova\v31\K2FufZ1EmftJSV9VQpXb1lo9vC3nZWubyvU_GI4-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/podkova/v31/K2FufZ1EmftJSV9VQpXb1lo9vC3nZWuiyvU_GI4.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\podkova\v31\K2FufZ1EmftJSV9VQpXb1lo9vC3nZWuiyvU_GI4-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/podkova/v31/K2FufZ1EmftJSV9VQpXb1lo9vC3nZWvFyvU_GI4.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\podkova\v31\K2FufZ1EmftJSV9VQpXb1lo9vC3nZWvFyvU_GI4-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\poppins\v21\pxiAyp8kv8JHgFVrJJLmE0tCMPc-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\poppins\v21\pxiByp8kv8JHgFVrLBT5Z1xlEA-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\poppins\v21\pxiByp8kv8JHgFVrLCz7Z1xlEA-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\poppins\v21\pxiByp8kv8JHgFVrLDD4Z1xlEA-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\poppins\v21\pxiByp8kv8JHgFVrLDz8Z1xlEA-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\poppins\v21\pxiByp8kv8JHgFVrLEj6Z1xlEA-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\poppins\v21\pxiByp8kv8JHgFVrLFj_Z1xlEA-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\poppins\v21\pxiByp8kv8JHgFVrLGT9Z1xlEA-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\poppins\v21\pxiDyp8kv8JHgFVrJJLm111VF9eL-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\poppins\v21\pxiDyp8kv8JHgFVrJJLm21lVF9eL-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\poppins\v21\pxiDyp8kv8JHgFVrJJLm81xVF9eL-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmg1hVF9eL-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmr19VF9eL-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmv1pVF9eL-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmy15VF9eL-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\poppins\v21\pxiEyp8kv8JHgFVrJJfedw-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiGyp8kv8JHgFVrJJLucHtF.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\poppins\v21\pxiGyp8kv8JHgFVrJJLucHtF-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiGyp8kv8JHgFVrLPTucHtF.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\poppins\v21\pxiGyp8kv8JHgFVrLPTucHtF-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\roboto\v32\KFOiCnqEu92Fr1Mu51QrEzAdKg-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\roboto\v32\KFOjCnqEu92Fr1Mu51S7ACc6CsE-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\roboto\v32\KFOjCnqEu92Fr1Mu51TjASc6CsE-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\roboto\v32\KFOjCnqEu92Fr1Mu51TLBCc6CsE-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\roboto\v32\KFOjCnqEu92Fr1Mu51TzBic6CsE-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\roboto\v32\KFOkCnqEu92Fr1MmgVxIIzc-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\roboto\v32\KFOkCnqEu92Fr1Mu51xIIzc-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\roboto\v32\KFOlCnqEu92Fr1MmEU9fBBc9-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\roboto\v32\KFOlCnqEu92Fr1MmSU5fBBc9-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\roboto\v32\KFOlCnqEu92Fr1MmWUlfBBc9-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\roboto\v32\KFOlCnqEu92Fr1MmYUtfBBc9-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\roboto\v32\KFOmCnqEu92Fr1Mu4mxP-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm-7.ttf
+Content Type: font/ttf
+
+Uri: https://jacklogin.mystartupcrew.com/
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\index-7.htm
+Content Type: text/html
+
+Uri: https://jacklogin.mystartupcrew.com/about/
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\about\index-6.htm
+Content Type: text/html
+
+Uri: https://jacklogin.mystartupcrew.com/comments/feed/
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\comments\feed\index-7.htm
+Content Type: application/rss+xml
+
+Uri: https://jacklogin.mystartupcrew.com/feed/
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\feed\index-7.htm
+Content Type: application/rss+xml
+
+Uri: https://jacklogin.mystartupcrew.com/home/
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\home\index-6.htm
+Content Type: text/html
+
+Uri: https://jacklogin.mystartupcrew.com/music/
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\music\index-6.htm
+Content Type: text/html
+
+Uri: https://jacklogin.mystartupcrew.com/other-columns/
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\other-columns\index-6.htm
+Content Type: text/html
+
+Uri: https://jacklogin.mystartupcrew.com/quote/
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\quote\index-6.htm
+Content Type: text/html
+
+Uri: https://jacklogin.mystartupcrew.com/store/
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\store\index-6.htm
+Content Type: text/html
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/3d-viewer/dist/3d-viewer-frontend.js?ver=1.5.0
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\3d-viewer\dist\3d-viewer-frontend-7.js
+Content Type: application/javascript
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/3d-viewer/dist/public.css?ver=1.5.0
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\3d-viewer\dist\public-7.css
+Content Type: text/css
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/3d-viewer/public/css/custom-style.css?ver=1.5.0
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\3d-viewer\public\css\custom-style-7.css
+Content Type: text/css
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/audioigniter/player/build/app.js?ver=2.0.0
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\audioigniter\player\build\app-7.js
+Content Type: application/javascript
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/audioigniter/player/build/style.css?ver=2.0.0
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\audioigniter\player\build\style-7.css
+Content Type: text/css
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/bdthemes-element-pack-lite/assets/css/bdt-uikit.css?ver=3.21.7
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\bdthemes-element-pack-lite\assets\css\bdt-uikit-7.css
+Content Type: text/css
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/bdthemes-element-pack-lite/assets/css/ep-helper.css?ver=5.8.5
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\bdthemes-element-pack-lite\assets\css\ep-helper-7.css
+Content Type: text/css
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/bdthemes-element-pack-lite/assets/images/loading.svg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\bdthemes-element-pack-lite\assets\images\loading-7.svg
+Content Type: image/svg+xml
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/bdthemes-element-pack-lite/assets/js/bdt-uikit.min.js?ver=3.21.7
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\bdthemes-element-pack-lite\assets\js\bdt-uikit.min-7.js
+Content Type: application/javascript
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/bdthemes-element-pack-lite/assets/js/common/helper.min.js?ver=5.8.5
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\bdthemes-element-pack-lite\assets\js\common\helper.min-7.js
+Content Type: application/javascript
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/bdthemes-element-pack-lite/assets/js/modules/ep-wrapper-link.min.js?ver=5.8.5
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\bdthemes-element-pack-lite\assets\js\modules\ep-wrapper-link.min-7.js
+Content Type: application/javascript
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/easy-login-woocommerce/assets/css/xoo-el-fonts.css?ver=2.7.8
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\easy-login-woocommerce\assets\css\xoo-el-fonts-7.css
+Content Type: text/css
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/easy-login-woocommerce/assets/css/xoo-el-style.css?ver=2.7.8
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\easy-login-woocommerce\assets\css\xoo-el-style-7.css
+Content Type: text/css
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/easy-login-woocommerce/assets/fonts/Easy-Login.eot?oy4gsz
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\easy-login-woocommerce\assets\fonts\Easy-Login-7.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/easy-login-woocommerce/assets/fonts/Easy-Login.svg?oy4gsz
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\easy-login-woocommerce\assets\fonts\Easy-Login-7.svg
+Content Type: image/svg+xml
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/easy-login-woocommerce/assets/fonts/Easy-Login.ttf?oy4gsz
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\easy-login-woocommerce\assets\fonts\Easy-Login-7.ttf
+Content Type: font/ttf
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/easy-login-woocommerce/assets/fonts/Easy-Login.woff?oy4gsz
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\easy-login-woocommerce\assets\fonts\Easy-Login-7.woff
+Content Type: font/woff
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/easy-login-woocommerce/assets/images/popup-sidebar.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\easy-login-woocommerce\assets\images\popup-sidebar-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/easy-login-woocommerce/assets/js/xoo-el-js.js?ver=2.7.8
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\easy-login-woocommerce\assets\js\xoo-el-js-7.js
+Content Type: application/javascript
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/easy-login-woocommerce/xoo-form-fields-fw/assets/css/xoo-aff-style.css?ver=1.8
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\easy-login-woocommerce\xoo-form-fields-fw\assets\css\xoo-aff-style-7.css
+Content Type: text/css
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/easy-login-woocommerce/xoo-form-fields-fw/assets/js/xoo-aff-js.js?ver=1.8
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\easy-login-woocommerce\xoo-form-fields-fw\assets\js\xoo-aff-js-7.js
+Content Type: application/javascript
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/easy-login-woocommerce/xoo-form-fields-fw/lib/fontawesome5/css/all.min.css?ver=6.4.3
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\easy-login-woocommerce\xoo-form-fields-fw\lib\fontawesome5\css\all.min-7.css
+Content Type: text/css
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/easy-login-woocommerce/xoo-form-fields-fw/lib/fontawesome5/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\easy-login-woocommerce\xoo-form-fields-fw\lib\fontawesome5\webfonts\fa-brands-400-14.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/easy-login-woocommerce/xoo-form-fields-fw/lib/fontawesome5/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\easy-login-woocommerce\xoo-form-fields-fw\lib\fontawesome5\webfonts\fa-brands-400-15.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/easy-login-woocommerce/xoo-form-fields-fw/lib/fontawesome5/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\easy-login-woocommerce\xoo-form-fields-fw\lib\fontawesome5\webfonts\fa-brands-400-7.svg
+Content Type: image/svg+xml
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/easy-login-woocommerce/xoo-form-fields-fw/lib/fontawesome5/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\easy-login-woocommerce\xoo-form-fields-fw\lib\fontawesome5\webfonts\fa-brands-400-7.ttf
+Content Type: font/ttf
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/easy-login-woocommerce/xoo-form-fields-fw/lib/fontawesome5/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\easy-login-woocommerce\xoo-form-fields-fw\lib\fontawesome5\webfonts\fa-brands-400-7.woff
+Content Type: font/woff
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/easy-login-woocommerce/xoo-form-fields-fw/lib/fontawesome5/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\easy-login-woocommerce\xoo-form-fields-fw\lib\fontawesome5\webfonts\fa-brands-400-7.woff2
+Content Type: font/woff2
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/easy-login-woocommerce/xoo-form-fields-fw/lib/fontawesome5/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\easy-login-woocommerce\xoo-form-fields-fw\lib\fontawesome5\webfonts\fa-regular-400-14.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/easy-login-woocommerce/xoo-form-fields-fw/lib/fontawesome5/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\easy-login-woocommerce\xoo-form-fields-fw\lib\fontawesome5\webfonts\fa-regular-400-15.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/easy-login-woocommerce/xoo-form-fields-fw/lib/fontawesome5/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\easy-login-woocommerce\xoo-form-fields-fw\lib\fontawesome5\webfonts\fa-regular-400-7.svg
+Content Type: image/svg+xml
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/easy-login-woocommerce/xoo-form-fields-fw/lib/fontawesome5/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\easy-login-woocommerce\xoo-form-fields-fw\lib\fontawesome5\webfonts\fa-regular-400-7.ttf
+Content Type: font/ttf
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/easy-login-woocommerce/xoo-form-fields-fw/lib/fontawesome5/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\easy-login-woocommerce\xoo-form-fields-fw\lib\fontawesome5\webfonts\fa-regular-400-7.woff
+Content Type: font/woff
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/easy-login-woocommerce/xoo-form-fields-fw/lib/fontawesome5/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\easy-login-woocommerce\xoo-form-fields-fw\lib\fontawesome5\webfonts\fa-regular-400-7.woff2
+Content Type: font/woff2
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/easy-login-woocommerce/xoo-form-fields-fw/lib/fontawesome5/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\easy-login-woocommerce\xoo-form-fields-fw\lib\fontawesome5\webfonts\fa-solid-900-14.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/easy-login-woocommerce/xoo-form-fields-fw/lib/fontawesome5/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\easy-login-woocommerce\xoo-form-fields-fw\lib\fontawesome5\webfonts\fa-solid-900-15.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/easy-login-woocommerce/xoo-form-fields-fw/lib/fontawesome5/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\easy-login-woocommerce\xoo-form-fields-fw\lib\fontawesome5\webfonts\fa-solid-900-7.svg
+Content Type: image/svg+xml
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/easy-login-woocommerce/xoo-form-fields-fw/lib/fontawesome5/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\easy-login-woocommerce\xoo-form-fields-fw\lib\fontawesome5\webfonts\fa-solid-900-7.ttf
+Content Type: font/ttf
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/easy-login-woocommerce/xoo-form-fields-fw/lib/fontawesome5/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\easy-login-woocommerce\xoo-form-fields-fw\lib\fontawesome5\webfonts\fa-solid-900-7.woff
+Content Type: font/woff
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/easy-login-woocommerce/xoo-form-fields-fw/lib/fontawesome5/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\easy-login-woocommerce\xoo-form-fields-fw\lib\fontawesome5\webfonts\fa-solid-900-7.woff2
+Content Type: font/woff2
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.16.2
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\elementor-pro\assets\css\frontend-lite.min-7.css
+Content Type: text/css
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\elementor-pro\assets\css\widget-nav-menu.min-7.css
+Content Type: text/css
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.16.2
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min-7.js
+Content Type: application/javascript
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.16.2
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\elementor-pro\assets\js\frontend.min-7.js
+Content Type: application/javascript
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.16.2
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min-7.js
+Content Type: application/javascript
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\elementor-pro\assets\lib\smartmenus\jquery.smartmenus.min-7.js
+Content Type: application/javascript
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.16.4
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\elementor\assets\css\frontend-lite.min-7.css
+Content Type: text/css
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.16.4
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\elementor\assets\js\frontend-modules.min-7.js
+Content Type: application/javascript
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.16.4
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\elementor\assets\js\frontend.min-7.js
+Content Type: application/javascript
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.16.4
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min-7.js
+Content Type: application/javascript
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.23.0
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min-7.css
+Content Type: text/css
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.23.0
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-7.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.23.0
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-7.svg
+Content Type: image/svg+xml
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.23.0
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-7.ttf
+Content Type: font/ttf
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.23.0
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-7.woff2
+Content Type: font/woff2
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.23.0
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-7.woff
+Content Type: font/woff
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min-7.css
+Content Type: text/css
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min-7.css
+Content Type: text/css
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-14.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-15.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-7.svg
+Content Type: image/svg+xml
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-7.ttf
+Content Type: font/ttf
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-7.woff
+Content Type: font/woff
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-7.woff2
+Content Type: font/woff2
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min-7.css
+Content Type: text/css
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min-7.js
+Content Type: application/javascript
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/music-player-for-elementor/assets/fontawesome-free-5.15.1/css/all.min.css?ver=5.15.1
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\music-player-for-elementor\assets\fontawesome-free-5.15.1\css\all.min-7.css
+Content Type: text/css
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/music-player-for-elementor/assets/fontawesome-free-5.15.1/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\music-player-for-elementor\assets\fontawesome-free-5.15.1\webfonts\fa-brands-400-14.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/music-player-for-elementor/assets/fontawesome-free-5.15.1/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\music-player-for-elementor\assets\fontawesome-free-5.15.1\webfonts\fa-brands-400-15.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/music-player-for-elementor/assets/fontawesome-free-5.15.1/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\music-player-for-elementor\assets\fontawesome-free-5.15.1\webfonts\fa-brands-400-7.svg
+Content Type: image/svg+xml
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/music-player-for-elementor/assets/fontawesome-free-5.15.1/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\music-player-for-elementor\assets\fontawesome-free-5.15.1\webfonts\fa-brands-400-7.ttf
+Content Type: font/ttf
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/music-player-for-elementor/assets/fontawesome-free-5.15.1/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\music-player-for-elementor\assets\fontawesome-free-5.15.1\webfonts\fa-brands-400-7.woff
+Content Type: font/woff
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/music-player-for-elementor/assets/fontawesome-free-5.15.1/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\music-player-for-elementor\assets\fontawesome-free-5.15.1\webfonts\fa-brands-400-7.woff2
+Content Type: font/woff2
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/music-player-for-elementor/assets/fontawesome-free-5.15.1/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\music-player-for-elementor\assets\fontawesome-free-5.15.1\webfonts\fa-regular-400-14.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/music-player-for-elementor/assets/fontawesome-free-5.15.1/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\music-player-for-elementor\assets\fontawesome-free-5.15.1\webfonts\fa-regular-400-15.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/music-player-for-elementor/assets/fontawesome-free-5.15.1/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\music-player-for-elementor\assets\fontawesome-free-5.15.1\webfonts\fa-regular-400-7.svg
+Content Type: image/svg+xml
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/music-player-for-elementor/assets/fontawesome-free-5.15.1/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\music-player-for-elementor\assets\fontawesome-free-5.15.1\webfonts\fa-regular-400-7.ttf
+Content Type: font/ttf
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/music-player-for-elementor/assets/fontawesome-free-5.15.1/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\music-player-for-elementor\assets\fontawesome-free-5.15.1\webfonts\fa-regular-400-7.woff
+Content Type: font/woff
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/music-player-for-elementor/assets/fontawesome-free-5.15.1/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\music-player-for-elementor\assets\fontawesome-free-5.15.1\webfonts\fa-regular-400-7.woff2
+Content Type: font/woff2
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/music-player-for-elementor/assets/fontawesome-free-5.15.1/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\music-player-for-elementor\assets\fontawesome-free-5.15.1\webfonts\fa-solid-900-14.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/music-player-for-elementor/assets/fontawesome-free-5.15.1/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\music-player-for-elementor\assets\fontawesome-free-5.15.1\webfonts\fa-solid-900-15.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/music-player-for-elementor/assets/fontawesome-free-5.15.1/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\music-player-for-elementor\assets\fontawesome-free-5.15.1\webfonts\fa-solid-900-7.svg
+Content Type: image/svg+xml
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/music-player-for-elementor/assets/fontawesome-free-5.15.1/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\music-player-for-elementor\assets\fontawesome-free-5.15.1\webfonts\fa-solid-900-7.ttf
+Content Type: font/ttf
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/music-player-for-elementor/assets/fontawesome-free-5.15.1/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\music-player-for-elementor\assets\fontawesome-free-5.15.1\webfonts\fa-solid-900-7.woff
+Content Type: font/woff
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/music-player-for-elementor/assets/fontawesome-free-5.15.1/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\music-player-for-elementor\assets\fontawesome-free-5.15.1\webfonts\fa-solid-900-7.woff2
+Content Type: font/woff2
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/music-player-for-elementor/css/mpfe-front-style.css?ver=2.3.1
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\music-player-for-elementor\css\mpfe-front-style-7.css
+Content Type: text/css
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/plugins/music-player-for-elementor/js/mpfe-front.js?ver=2.3.1
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\plugins\music-player-for-elementor\js\mpfe-front-7.js
+Content Type: application/javascript
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/themes/astra/assets/css/minified/main.min.css?ver=4.8.1
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\themes\astra\assets\css\minified\main.min-7.css
+Content Type: text/css
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.8.1
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\themes\astra\assets\js\minified\frontend.min-7.js
+Content Type: application/javascript
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/23-300x169.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\23-300x169-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/23-768x432.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\23-768x432-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/23.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\23-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/bunch-logs-stacked-up_79152-547-300x200.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\bunch-logs-stacked-up_79152-547-300x200-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/bunch-logs-stacked-up_79152-547-768x512.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\bunch-logs-stacked-up_79152-547-768x512-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/bunch-logs-stacked-up_79152-547.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\bunch-logs-stacked-up_79152-547-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/CAPFree-Mens-P-Cap-Hat-Mockup-PSD-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\CAPFree-Mens-P-Cap-Hat-Mockup-PSD-1024x1024-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/CAPFree-Mens-P-Cap-Hat-Mockup-PSD-150x150.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\CAPFree-Mens-P-Cap-Hat-Mockup-PSD-150x150-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/CAPFree-Mens-P-Cap-Hat-Mockup-PSD-1536x1536.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\CAPFree-Mens-P-Cap-Hat-Mockup-PSD-1536x1536-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/CAPFree-Mens-P-Cap-Hat-Mockup-PSD-300x300.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\CAPFree-Mens-P-Cap-Hat-Mockup-PSD-300x300-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/CAPFree-Mens-P-Cap-Hat-Mockup-PSD-768x768.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\CAPFree-Mens-P-Cap-Hat-Mockup-PSD-768x768-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/CAPFree-Mens-P-Cap-Hat-Mockup-PSD.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\CAPFree-Mens-P-Cap-Hat-Mockup-PSD-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/career-growth-concept_700248-1727-300x200.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\career-growth-concept_700248-1727-300x200-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/career-growth-concept_700248-1727-768x512.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\career-growth-concept_700248-1727-768x512-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/career-growth-concept_700248-1727.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\career-growth-concept_700248-1727-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/christmas-frame-with-clock_1048-3759-150x150.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\christmas-frame-with-clock_1048-3759-150x150-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/christmas-frame-with-clock_1048-3759-300x300.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\christmas-frame-with-clock_1048-3759-300x300-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/christmas-frame-with-clock_1048-3759-768x768.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\christmas-frame-with-clock_1048-3759-768x768-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/christmas-frame-with-clock_1048-3759.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\christmas-frame-with-clock_1048-3759-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/colorful-summer-tshirts-market_263512-8705-300x200.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\colorful-summer-tshirts-market_263512-8705-300x200-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/colorful-summer-tshirts-market_263512-8705-768x512.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\colorful-summer-tshirts-market_263512-8705-768x512-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/colorful-summer-tshirts-market_263512-8705.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\colorful-summer-tshirts-market_263512-8705-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/concept-right-wrong-way-decision-cubes-show-right-way-wrong-way-business-concept_556258-3836-300x184.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\concept-right-wrong-way-decision-cubes-show-right-way-wrong-way-business-concept_556258-3836-300x184-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/concept-right-wrong-way-decision-cubes-show-right-way-wrong-way-business-concept_556258-3836-768x470.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\concept-right-wrong-way-decision-cubes-show-right-way-wrong-way-business-concept_556258-3836-768x470-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/concept-right-wrong-way-decision-cubes-show-right-way-wrong-way-business-concept_556258-3836.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\concept-right-wrong-way-decision-cubes-show-right-way-wrong-way-business-concept_556258-3836-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/dAILY-GRIND-LOGO-PNG-1024x415.png
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\dAILY-GRIND-LOGO-PNG-1024x415-7.png
+Content Type: image/png
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/dAILY-GRIND-LOGO-PNG-150x150.png
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\dAILY-GRIND-LOGO-PNG-150x150-7.png
+Content Type: image/png
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/dAILY-GRIND-LOGO-PNG-300x122.png
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\dAILY-GRIND-LOGO-PNG-300x122-7.png
+Content Type: image/png
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/dAILY-GRIND-LOGO-PNG-768x311.png
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\dAILY-GRIND-LOGO-PNG-768x311-7.png
+Content Type: image/png
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/dAILY-GRIND-LOGO-PNG.png
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\dAILY-GRIND-LOGO-PNG-7.png
+Content Type: image/png
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/goldfish-aquarium-generative-ai_220873-24386-300x168.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\goldfish-aquarium-generative-ai_220873-24386-300x168-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/goldfish-aquarium-generative-ai_220873-24386-768x430.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\goldfish-aquarium-generative-ai_220873-24386-768x430-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/goldfish-aquarium-generative-ai_220873-24386.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\goldfish-aquarium-generative-ai_220873-24386-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/man-two-roads-deciding-best-chance-environment-protection_31965-143178-300x150.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\man-two-roads-deciding-best-chance-environment-protection_31965-143178-300x150-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/man-two-roads-deciding-best-chance-environment-protection_31965-143178-768x384.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\man-two-roads-deciding-best-chance-environment-protection_31965-143178-768x384-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/man-two-roads-deciding-best-chance-environment-protection_31965-143178.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\man-two-roads-deciding-best-chance-environment-protection_31965-143178-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/mark-twain-gettyimages-683484482-1024x576.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\mark-twain-gettyimages-683484482-1024x576-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/mark-twain-gettyimages-683484482-1536x864.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\mark-twain-gettyimages-683484482-1536x864-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/mark-twain-gettyimages-683484482-300x169.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\mark-twain-gettyimages-683484482-300x169-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/mark-twain-gettyimages-683484482-768x432.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\mark-twain-gettyimages-683484482-768x432-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/mark-twain-gettyimages-683484482.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\mark-twain-gettyimages-683484482-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/MsJJnh.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\MsJJnh-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/New-Free_Stacked_Cups_Mockup_4-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\New-Free_Stacked_Cups_Mockup_4-1024x1024-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/New-Free_Stacked_Cups_Mockup_4-150x150.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\New-Free_Stacked_Cups_Mockup_4-150x150-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/New-Free_Stacked_Cups_Mockup_4-1536x1536.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\New-Free_Stacked_Cups_Mockup_4-1536x1536-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/New-Free_Stacked_Cups_Mockup_4-300x300.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\New-Free_Stacked_Cups_Mockup_4-300x300-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/New-Free_Stacked_Cups_Mockup_4-768x768.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\New-Free_Stacked_Cups_Mockup_4-768x768-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/New-Free_Stacked_Cups_Mockup_4.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\New-Free_Stacked_Cups_Mockup_4-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/newPhoto-realistic-Mug-Mockup-2-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\newPhoto-realistic-Mug-Mockup-2-1024x1024-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/newPhoto-realistic-Mug-Mockup-2-150x150.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\newPhoto-realistic-Mug-Mockup-2-150x150-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/newPhoto-realistic-Mug-Mockup-2-1536x1536.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\newPhoto-realistic-Mug-Mockup-2-1536x1536-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/newPhoto-realistic-Mug-Mockup-2-300x300.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\newPhoto-realistic-Mug-Mockup-2-300x300-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/newPhoto-realistic-Mug-Mockup-2-768x768.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\newPhoto-realistic-Mug-Mockup-2-768x768-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/newPhoto-realistic-Mug-Mockup-2.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\newPhoto-realistic-Mug-Mockup-2-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/side-view-woman-grass_23-2148601929-300x169.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\side-view-woman-grass_23-2148601929-300x169-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/side-view-woman-grass_23-2148601929-768x432.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\side-view-woman-grass_23-2148601929-768x432-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/side-view-woman-grass_23-2148601929.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\side-view-woman-grass_23-2148601929-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/T-Shirt-Mock-Up-2-full_2000x-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\T-Shirt-Mock-Up-2-full_2000x-1024x1024-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/T-Shirt-Mock-Up-2-full_2000x-150x150.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\T-Shirt-Mock-Up-2-full_2000x-150x150-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/T-Shirt-Mock-Up-2-full_2000x-1536x1536.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\T-Shirt-Mock-Up-2-full_2000x-1536x1536-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/T-Shirt-Mock-Up-2-full_2000x-300x300.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\T-Shirt-Mock-Up-2-full_2000x-300x300-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/T-Shirt-Mock-Up-2-full_2000x-768x768.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\T-Shirt-Mock-Up-2-full_2000x-768x768-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/T-Shirt-Mock-Up-2-full_2000x.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\T-Shirt-Mock-Up-2-full_2000x-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/the-eyes-of-tammy-faye-garfield-header-300x169.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\the-eyes-of-tammy-faye-garfield-header-300x169-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/the-eyes-of-tammy-faye-garfield-header.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\the-eyes-of-tammy-faye-garfield-header-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/travelers-are-repairing-tents-rainy_43569-81-300x200.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\travelers-are-repairing-tents-rainy_43569-81-300x200-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/travelers-are-repairing-tents-rainy_43569-81-768x512.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\travelers-are-repairing-tents-rainy_43569-81-768x512-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/travelers-are-repairing-tents-rainy_43569-81.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\travelers-are-repairing-tents-rainy_43569-81-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/two-female-friends-with-ice-cream-shielding-their-eyes_23-2147911704-300x144.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\two-female-friends-with-ice-cream-shielding-their-eyes_23-2147911704-300x144-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/two-female-friends-with-ice-cream-shielding-their-eyes_23-2147911704-768x368.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\two-female-friends-with-ice-cream-shielding-their-eyes_23-2147911704-768x368-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/two-female-friends-with-ice-cream-shielding-their-eyes_23-2147911704.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\two-female-friends-with-ice-cream-shielding-their-eyes_23-2147911704-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/young-cool-man-portrait-joking_1194-2414-300x200.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\young-cool-man-portrait-joking_1194-2414-300x200-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/young-cool-man-portrait-joking_1194-2414-768x512.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\young-cool-man-portrait-joking_1194-2414-768x512-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/09/young-cool-man-portrait-joking_1194-2414.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\09\young-cool-man-portrait-joking_1194-2414-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/1721927312_Trey-Anastasio-2014-billboard-650.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\1721927312_Trey-Anastasio-2014-billboard-650-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/39d7ca9b09e131bbef9de503c3276a74-scaled-1.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\39d7ca9b09e131bbef9de503c3276a74-scaled-1-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/3D-Logo-1.glb
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\3D-Logo-1-7.glb
+Content Type: 
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/59-Carl-Sagan-1200x834-1.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\59-Carl-Sagan-1200x834-1-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/band-music-bon-jovi-wallpaper-preview-300x188.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\band-music-bon-jovi-wallpaper-preview-300x188-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/band-music-bon-jovi-wallpaper-preview.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\band-music-bon-jovi-wallpaper-preview-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/BRUSHSCI.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\BRUSHSCI-7.ttf
+Content Type: font/ttf
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Camp-in-the-Camp-1024x1024-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Camp-in-the-Camp-1024x1024-1-150x150-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Camp-in-the-Camp-1024x1024-1-300x300.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Camp-in-the-Camp-1024x1024-1-300x300-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Camp-in-the-Camp-1024x1024-1-560x560.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Camp-in-the-Camp-1024x1024-1-560x560-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Camp-in-the-Camp-1024x1024-1-768x768.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Camp-in-the-Camp-1024x1024-1-768x768-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Camp-in-the-Camp-1024x1024-1.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Camp-in-the-Camp-1024x1024-1-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/CAP-NEW-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\CAP-NEW-1024x1024-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/CAP-NEW-150x150.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\CAP-NEW-150x150-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/CAP-NEW-300x300.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\CAP-NEW-300x300-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/CAP-NEW-560x560.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\CAP-NEW-560x560-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/CAP-NEW-768x768.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\CAP-NEW-768x768-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/CAP-NEW.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\CAP-NEW-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/COZY-CAN-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\COZY-CAN-1024x1024-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/COZY-CAN-150x150.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\COZY-CAN-150x150-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/COZY-CAN-300x300.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\COZY-CAN-300x300-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/COZY-CAN-560x560.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\COZY-CAN-560x560-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/COZY-CAN-768x768.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\COZY-CAN-768x768-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/COZY-CAN.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\COZY-CAN-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Craftmen-Ship-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Craftmen-Ship-1024x1024-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Craftmen-Ship-150x150.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Craftmen-Ship-150x150-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Craftmen-Ship-300x300.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Craftmen-Ship-300x300-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Craftmen-Ship-560x560.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Craftmen-Ship-560x560-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Craftmen-Ship-768x768.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Craftmen-Ship-768x768-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Craftmen-Ship.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Craftmen-Ship-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Cravings-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Cravings-1024x1024-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Cravings-150x150.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Cravings-150x150-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Cravings-300x300.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Cravings-300x300-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Cravings-560x560.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Cravings-560x560-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Cravings-768x768.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Cravings-768x768-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Cravings.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Cravings-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Dress-to-Express-my-life-in-Tshirt-1024x1024-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Dress-to-Express-my-life-in-Tshirt-1024x1024-1-150x150-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Dress-to-Express-my-life-in-Tshirt-1024x1024-1-300x300.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Dress-to-Express-my-life-in-Tshirt-1024x1024-1-300x300-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Dress-to-Express-my-life-in-Tshirt-1024x1024-1-560x560.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Dress-to-Express-my-life-in-Tshirt-1024x1024-1-560x560-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Dress-to-Express-my-life-in-Tshirt-1024x1024-1-768x768.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Dress-to-Express-my-life-in-Tshirt-1024x1024-1-768x768-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Dress-to-Express-my-life-in-Tshirt-1024x1024-1.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Dress-to-Express-my-life-in-Tshirt-1024x1024-1-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Grind-into-Grin-1024x1024-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Grind-into-Grin-1024x1024-1-150x150-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Grind-into-Grin-1024x1024-1-300x300.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Grind-into-Grin-1024x1024-1-300x300-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Grind-into-Grin-1024x1024-1-560x560.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Grind-into-Grin-1024x1024-1-560x560-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Grind-into-Grin-1024x1024-1-768x768.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Grind-into-Grin-1024x1024-1-768x768-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Grind-into-Grin-1024x1024-1.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Grind-into-Grin-1024x1024-1-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/hq720.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\hq720-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Ideal-Vicheal-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Ideal-Vicheal-1024x1024-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Ideal-Vicheal-150x150.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Ideal-Vicheal-150x150-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Ideal-Vicheal-300x300.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Ideal-Vicheal-300x300-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Ideal-Vicheal-560x560.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Ideal-Vicheal-560x560-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Ideal-Vicheal-768x768.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Ideal-Vicheal-768x768-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Ideal-Vicheal.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Ideal-Vicheal-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/images-2.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\images-2-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/images.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\images-8.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/International-Labour-Day-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\International-Labour-Day-1024x1024-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/International-Labour-Day-150x150.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\International-Labour-Day-150x150-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/International-Labour-Day-300x300.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\International-Labour-Day-300x300-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/International-Labour-Day-560x560.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\International-Labour-Day-560x560-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/International-Labour-Day-768x768.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\International-Labour-Day-768x768-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/International-Labour-Day.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\International-Labour-Day-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/JMH-Typewriter-1.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\JMH-Typewriter-1-7.ttf
+Content Type: font/ttf
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/JMH-Typewriter.ttf
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\JMH-Typewriter-8.ttf
+Content Type: font/ttf
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Life-Lesson-Quotes-1024x1024-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Life-Lesson-Quotes-1024x1024-1-150x150-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Life-Lesson-Quotes-1024x1024-1-300x300.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Life-Lesson-Quotes-1024x1024-1-300x300-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Life-Lesson-Quotes-1024x1024-1-560x560.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Life-Lesson-Quotes-1024x1024-1-560x560-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Life-Lesson-Quotes-1024x1024-1-768x768.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Life-Lesson-Quotes-1024x1024-1-768x768-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Life-Lesson-Quotes-1024x1024-1.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Life-Lesson-Quotes-1024x1024-1-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Making-Smart-Choise-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Making-Smart-Choise-1024x1024-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Making-Smart-Choise-150x150.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Making-Smart-Choise-150x150-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Making-Smart-Choise-300x300.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Making-Smart-Choise-300x300-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Making-Smart-Choise-560x560.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Making-Smart-Choise-560x560-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Making-Smart-Choise-768x768.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Making-Smart-Choise-768x768-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Making-Smart-Choise.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Making-Smart-Choise-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/MUG-mockup-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\MUG-mockup-1024x1024-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/MUG-mockup-150x150.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\MUG-mockup-150x150-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/MUG-mockup-300x300.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\MUG-mockup-300x300-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/MUG-mockup-560x560.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\MUG-mockup-560x560-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/MUG-mockup-768x768.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\MUG-mockup-768x768-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/MUG-mockup.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\MUG-mockup-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/MUSIC-PICTURE-300x150.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\MUSIC-PICTURE-300x150-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/MUSIC-PICTURE.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\MUSIC-PICTURE-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Music-Playlist-1024x1024-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Music-Playlist-1024x1024-1-150x150-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Music-Playlist-1024x1024-1-300x300.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Music-Playlist-1024x1024-1-300x300-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Music-Playlist-1024x1024-1-560x560.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Music-Playlist-1024x1024-1-560x560-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Music-Playlist-1024x1024-1-768x768.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Music-Playlist-1024x1024-1-768x768-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Music-Playlist-1024x1024-1.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Music-Playlist-1024x1024-1-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/National-Chees-Burger-Day.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\National-Chees-Burger-Day-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/National-Family-Day-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\National-Family-Day-1024x1024-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/National-Family-Day-150x150.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\National-Family-Day-150x150-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/National-Family-Day-300x300.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\National-Family-Day-300x300-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/National-Family-Day-560x560.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\National-Family-Day-560x560-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/National-Family-Day-768x768.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\National-Family-Day-768x768-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/National-Family-Day.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\National-Family-Day-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Old-Fasion-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Old-Fasion-1024x1024-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Old-Fasion-150x150.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Old-Fasion-150x150-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Old-Fasion-300x300.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Old-Fasion-300x300-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Old-Fasion-560x560.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Old-Fasion-560x560-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Old-Fasion-768x768.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Old-Fasion-768x768-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Old-Fasion.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Old-Fasion-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Old-Gadgets-1-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Old-Gadgets-1-1024x1024-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Old-Gadgets-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Old-Gadgets-1-150x150-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Old-Gadgets-1-300x300.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Old-Gadgets-1-300x300-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Old-Gadgets-1-560x560.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Old-Gadgets-1-560x560-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Old-Gadgets-1-768x768.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Old-Gadgets-1-768x768-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Old-Gadgets-1.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Old-Gadgets-1-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Quotes-Image-01-300x194.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Quotes-Image-01-300x194-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Quotes-Image-01.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Quotes-Image-01-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Quotes-Image-02-300x194.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Quotes-Image-02-300x194-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Quotes-Image-02.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Quotes-Image-02-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Shirt-New-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Shirt-New-1024x1024-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Shirt-New-150x150.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Shirt-New-150x150-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Shirt-New-300x300.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Shirt-New-300x300-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Shirt-New-560x560.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Shirt-New-560x560-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Shirt-New-768x768.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Shirt-New-768x768-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Shirt-New.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Shirt-New-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Wants-vs-Need-1024x1024-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Wants-vs-Need-1024x1024-1-150x150-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Wants-vs-Need-1024x1024-1-300x300.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Wants-vs-Need-1024x1024-1-300x300-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Wants-vs-Need-1024x1024-1-560x560.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Wants-vs-Need-1024x1024-1-560x560-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Wants-vs-Need-1024x1024-1-768x768.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Wants-vs-Need-1024x1024-1-768x768-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Wants-vs-Need-1024x1024-1.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Wants-vs-Need-1024x1024-1-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/when-was-ronald-reagan-governor-of-california-1024x585-1.webp
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\when-was-ronald-reagan-governor-of-california-1024x585-1-7.webp
+Content Type: 
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/winston-churchill-the-greatest-figure-of-our-time-first-edition-signed.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\winston-churchill-the-greatest-figure-of-our-time-first-edition-signed-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Wishes-Wisdom-1024x1024-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Wishes-Wisdom-1024x1024-1-150x150-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Wishes-Wisdom-1024x1024-1-300x300.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Wishes-Wisdom-1024x1024-1-300x300-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Wishes-Wisdom-1024x1024-1-560x560.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Wishes-Wisdom-1024x1024-1-560x560-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Wishes-Wisdom-1024x1024-1-768x768.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Wishes-Wisdom-1024x1024-1-768x768-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/Wishes-Wisdom-1024x1024-1.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\Wishes-Wisdom-1024x1024-1-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/World-Kindness-Day-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\World-Kindness-Day-1024x1024-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/World-Kindness-Day-150x150.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\World-Kindness-Day-150x150-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/World-Kindness-Day-300x300.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\World-Kindness-Day-300x300-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/World-Kindness-Day-560x560.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\World-Kindness-Day-560x560-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/World-Kindness-Day-768x768.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\World-Kindness-Day-768x768-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/10/World-Kindness-Day.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\10\World-Kindness-Day-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/11/back-view-man-walking-countryside_23-2147770881-200x300.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\11\back-view-man-walking-countryside_23-2147770881-200x300-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/11/back-view-man-walking-countryside_23-2147770881-683x1024.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\11\back-view-man-walking-countryside_23-2147770881-683x1024-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/11/back-view-man-walking-countryside_23-2147770881.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\11\back-view-man-walking-countryside_23-2147770881-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/11/istockphoto-1230749818-612x612-1.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\11\istockphoto-1230749818-612x612-1-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/11/mc-1.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\11\mc-1-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/11/mc-2.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\11\mc-2-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/11/postimg.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\11\postimg-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/11/stack-firewood_692498-1738-1.png
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\11\stack-firewood_692498-1738-1-7.png
+Content Type: image/png
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/11/top-view.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\11\top-view-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/11/tst.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\11\tst-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/2024/11/ZvJyyv.jpg
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\2024\11\ZvJyyv-7.jpg
+Content Type: image/jpeg
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/elementor/css/global.css?ver=1730918302
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\elementor\css\global-7.css
+Content Type: text/css
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/elementor/css/post-1117.css?ver=1730950660
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\elementor\css\post-1117-7.css
+Content Type: text/css
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/elementor/css/post-403.css?ver=1730918302
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\elementor\css\post-403-7.css
+Content Type: text/css
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/elementor/css/post-422.css?ver=1732372355
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\elementor\css\post-422-7.css
+Content Type: text/css
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/elementor/css/post-459.css?ver=1732373120
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\elementor\css\post-459-7.css
+Content Type: text/css
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/elementor/css/post-571.css?ver=1732372719
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\elementor\css\post-571-7.css
+Content Type: text/css
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/elementor/css/post-651.css?ver=1732372202
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\elementor\css\post-651-7.css
+Content Type: text/css
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/elementor/css/post-692.css?ver=1732372838
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\elementor\css\post-692-7.css
+Content Type: text/css
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/elementor/css/post-7.css?ver=1730918301
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\elementor\css\post-7-7.css
+Content Type: text/css
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/elementor/css/post-763.css?ver=1732373506
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\elementor\css\post-763-7.css
+Content Type: text/css
+
+Uri: https://jacklogin.mystartupcrew.com/wp-content/uploads/elementor/css/post-9.css?ver=1730918387
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-content\uploads\elementor\css\post-9-7.css
+Content Type: text/css
+
+Uri: https://jacklogin.mystartupcrew.com/wp-includes/css/dist/block-library/style.min.css?ver=6.4.3
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-includes\css\dist\block-library\style.min-7.css
+Content Type: text/css
+
+Uri: https://jacklogin.mystartupcrew.com/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-includes\js\dist\hooks.min-7.js
+Content Type: application/javascript
+
+Uri: https://jacklogin.mystartupcrew.com/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-includes\js\dist\i18n.min-7.js
+Content Type: application/javascript
+
+Uri: https://jacklogin.mystartupcrew.com/wp-includes/js/dist/vendor/react-dom.min.js?ver=18.2.0
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-includes\js\dist\vendor\react-dom.min-7.js
+Content Type: application/javascript
+
+Uri: https://jacklogin.mystartupcrew.com/wp-includes/js/dist/vendor/react.min.js?ver=18.2.0
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-includes\js\dist\vendor\react.min-7.js
+Content Type: application/javascript
+
+Uri: https://jacklogin.mystartupcrew.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-includes\js\dist\vendor\regenerator-runtime.min-7.js
+Content Type: application/javascript
+
+Uri: https://jacklogin.mystartupcrew.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-includes\js\dist\vendor\wp-polyfill-inert.min-7.js
+Content Type: application/javascript
+
+Uri: https://jacklogin.mystartupcrew.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-includes\js\dist\vendor\wp-polyfill.min-7.js
+Content Type: application/javascript
+
+Uri: https://jacklogin.mystartupcrew.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-includes\js\jquery\jquery-migrate.min-7.js
+Content Type: application/javascript
+
+Uri: https://jacklogin.mystartupcrew.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-includes\js\jquery\jquery.min-7.js
+Content Type: application/javascript
+
+Uri: https://jacklogin.mystartupcrew.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-includes\js\jquery\ui\core.min-7.js
+Content Type: application/javascript
+
+Uri: https://jacklogin.mystartupcrew.com/wp-json/
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-json\index-7.htm
+Content Type: application/json
+
+Uri: https://jacklogin.mystartupcrew.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fjacklogin.mystartupcrew.com%2F
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-json\oembed\1.0\embed-100
+Content Type: application/json
+
+Uri: https://jacklogin.mystartupcrew.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fjacklogin.mystartupcrew.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-json\oembed\1.0\embed-101
+Content Type: text/xml
+
+Uri: https://jacklogin.mystartupcrew.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fjacklogin.mystartupcrew.com%2Fabout%2F
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-json\oembed\1.0\embed-104
+Content Type: application/json
+
+Uri: https://jacklogin.mystartupcrew.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fjacklogin.mystartupcrew.com%2Fabout%2F&format=xml
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-json\oembed\1.0\embed-105
+Content Type: text/xml
+
+Uri: https://jacklogin.mystartupcrew.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fjacklogin.mystartupcrew.com%2Fhome%2F
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-json\oembed\1.0\embed-102
+Content Type: application/json
+
+Uri: https://jacklogin.mystartupcrew.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fjacklogin.mystartupcrew.com%2Fhome%2F&format=xml
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-json\oembed\1.0\embed-103
+Content Type: text/xml
+
+Uri: https://jacklogin.mystartupcrew.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fjacklogin.mystartupcrew.com%2Fmusic%2F
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-json\oembed\1.0\embed-108
+Content Type: application/json
+
+Uri: https://jacklogin.mystartupcrew.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fjacklogin.mystartupcrew.com%2Fmusic%2F&format=xml
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-json\oembed\1.0\embed-109
+Content Type: text/xml
+
+Uri: https://jacklogin.mystartupcrew.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fjacklogin.mystartupcrew.com%2Fother-columns%2F
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-json\oembed\1.0\embed-106
+Content Type: application/json
+
+Uri: https://jacklogin.mystartupcrew.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fjacklogin.mystartupcrew.com%2Fother-columns%2F&format=xml
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-json\oembed\1.0\embed-107
+Content Type: text/xml
+
+Uri: https://jacklogin.mystartupcrew.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fjacklogin.mystartupcrew.com%2Fquote%2F
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-json\oembed\1.0\embed-110
+Content Type: application/json
+
+Uri: https://jacklogin.mystartupcrew.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fjacklogin.mystartupcrew.com%2Fquote%2F&format=xml
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-json\oembed\1.0\embed-111
+Content Type: text/xml
+
+Uri: https://jacklogin.mystartupcrew.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fjacklogin.mystartupcrew.com%2Fstore%2F
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-json\oembed\1.0\embed-112
+Content Type: application/json
+
+Uri: https://jacklogin.mystartupcrew.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fjacklogin.mystartupcrew.com%2Fstore%2F&format=xml
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-json\oembed\1.0\embed-113
+Content Type: text/xml
+
+Uri: https://jacklogin.mystartupcrew.com/wp-json/wp/v2/pages/422
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-json\wp\v2\pages\422-7
+Content Type: application/json
+
+Uri: https://jacklogin.mystartupcrew.com/wp-json/wp/v2/pages/459
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-json\wp\v2\pages\459-7
+Content Type: application/json
+
+Uri: https://jacklogin.mystartupcrew.com/wp-json/wp/v2/pages/571
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-json\wp\v2\pages\571-7
+Content Type: application/json
+
+Uri: https://jacklogin.mystartupcrew.com/wp-json/wp/v2/pages/651
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-json\wp\v2\pages\651-7
+Content Type: application/json
+
+Uri: https://jacklogin.mystartupcrew.com/wp-json/wp/v2/pages/692
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-json\wp\v2\pages\692-7
+Content Type: application/json
+
+Uri: https://jacklogin.mystartupcrew.com/wp-json/wp/v2/pages/763
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-json\wp\v2\pages\763-7
+Content Type: application/json
+
+Uri: https://jacklogin.mystartupcrew.com/wp-json/wp/v2/pages/9
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-json\wp\v2\pages\9-7
+Content Type: application/json
+
+Uri: https://jacklogin.mystartupcrew.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\xmlrpc-7.php
+Content Type: text/xml
+
+Type: text/xml
+
+d Web Sites\jacklogin.mystartupcrew.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://jacklogin.mystartupcrew.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fjacklogin.mystartupcrew.com%2Fstore%2F&format=xml
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://jacklogin.mystartupcrew.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fjacklogin.mystartupcrew.com%2Ftodays-column%2F
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://jacklogin.mystartupcrew.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fjacklogin.mystartupcrew.com%2Ftodays-column%2F&format=xml
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://jacklogin.mystartupcrew.com/wp-json/wp/v2/pages/1405
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-json\wp\v2\pages\1405
+Content Type: application/json
+
+Uri: https://jacklogin.mystartupcrew.com/wp-json/wp/v2/pages/422
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-json\wp\v2\pages\422
+Content Type: application/json
+
+Uri: https://jacklogin.mystartupcrew.com/wp-json/wp/v2/pages/459
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-json\wp\v2\pages\459
+Content Type: application/json
+
+Uri: https://jacklogin.mystartupcrew.com/wp-json/wp/v2/pages/571
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-json\wp\v2\pages\571
+Content Type: application/json
+
+Uri: https://jacklogin.mystartupcrew.com/wp-json/wp/v2/pages/651
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-json\wp\v2\pages\651
+Content Type: application/json
+
+Uri: https://jacklogin.mystartupcrew.com/wp-json/wp/v2/pages/692
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-json\wp\v2\pages\692
+Content Type: application/json
+
+Uri: https://jacklogin.mystartupcrew.com/wp-json/wp/v2/pages/763
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-json\wp\v2\pages\763
+Content Type: application/json
+
+Uri: https://jacklogin.mystartupcrew.com/wp-json/wp/v2/pages/9
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\wp-json\wp\v2\pages\9
+Content Type: application/json
+
+Uri: https://jacklogin.mystartupcrew.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\jacklogin.mystartupcrew.com\xmlrpc.php
+Content Type: text/xml
+
